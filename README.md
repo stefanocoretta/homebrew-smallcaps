@@ -1,11 +1,23 @@
-# Stefanocoretta Smallcaps
+# SmallCaps: Stefano's Homebrew Tap
 
-## How do I install these formulae?
+This is my own [Hombrew](https://brew.sh) tap.
 
-`brew install stefanocoretta/smallcaps/<formula>`
+## Install
 
-Or `brew tap stefanocoretta/smallcaps` and then `brew install <formula>`.
+First add this tap to your brew.
 
-## Documentation
+```bash
+brew tap stefanocoretta/smallcaps
+```
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+Now you can install `<formulae>` or `<casks>` with `brew install`.
+
+```bash
+brew install <formula>
+brew install --cask <cask>
+```
+
+## Available casks
+
+[Lexurgy](https://www.meamoria.com/lexurgy/html/index.html): a sound change applier CL tool.
+
