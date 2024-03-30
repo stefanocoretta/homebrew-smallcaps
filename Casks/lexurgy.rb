@@ -1,6 +1,6 @@
 cask "lexurgy" do
-  version "1.4.0"
-  sha256 "918a0b3230a8e5338a3a1c560eb7d0c459129908f06cf9c502594f035ddcea10"
+  version "1.5.0"
+  sha256 "200c9e0e488f296ffb4b7c6217742ccde690c5e0fdad5a01f1ef2f6788a40ddf"
 
   url "https://github.com/def-gthill/lexurgy/releases/download/v#{version}/lexurgy-#{version}.zip",
       verified: "https://github.com/def-gthill/lexurgy/"
